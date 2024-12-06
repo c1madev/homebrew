@@ -27,7 +27,7 @@ At 1st level, you gain proficiency in one musical instrument of
 your choice. You may use any musical instrument you are proficient
 with as holy symbol.
 
-### Distracting Noise.
+### Distracting Noise
 At 1st level, when a creature within 10ft of you takes the attack
 action, you can use your reaction to produce a loud clanging or
 screeching sound, confusing the creature. The creature must make
