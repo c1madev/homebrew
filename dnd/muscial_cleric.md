@@ -7,7 +7,7 @@ between settlements, regions and even realms to spread the word about
 their god. With divine help, they are able to shape the sounds of
 their instruments and their voice in many ways. Their friends and
 allies know their divine music as harmonious songs, but if need be,
-the Clerics can produce the twisted and jarring sounds capable of
+the Clerics can produce twisted and jarring sounds capable of
 inflicting mental and physical hurt.*
 
 Appropriate Cantrips: (Thunder Clap, Booming Blade,) Toll the Dead
